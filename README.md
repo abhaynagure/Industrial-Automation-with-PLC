@@ -330,7 +330,7 @@ Industrial-Automation-Internship/
 
 ## Author
 
-**Abhay Nagure**
+**Abhay Sunil Nagure**
 
 Bachelor of Engineering  
 Electronics and Communication Engineering
