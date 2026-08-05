@@ -1,0 +1,23 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Temporary
+*.tmp
+*.log
+
+# Python
+__pycache__/
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
