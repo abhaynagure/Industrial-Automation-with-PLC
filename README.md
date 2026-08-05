@@ -1,312 +1,345 @@
-# 🏭 Industrial Automation Internship
+# Industrial Automation Internship
 
-> Hands-on Industrial Automation Internship at Swaraj Automation, Belagavi, Karnataka.
+## About
 
-![PLC](https://img.shields.io/badge/PLC-Programming-blue)
-![Siemens](https://img.shields.io/badge/Siemens-TIA%20Portal-green)
-![Automation](https://img.shields.io/badge/Industrial-Automation-orange)
-![AWS](https://img.shields.io/badge/AWS-IoT-yellow)
-![NodeRED](https://img.shields.io/badge/Node--RED-Dashboard-red)
-![License](https://img.shields.io/badge/License-MIT-purple)
----
+This repository documents the concepts, tools, practical exercises, and automation projects explored during my Industrial Automation Internship at **Swaraj Automation, Belagavi, Karnataka**.
 
-## 📌 About
+The internship provided practical exposure to industrial automation systems used in manufacturing environments. The training covered Programmable Logic Controllers (PLCs), Siemens TIA Portal, Human Machine Interfaces (HMI), Industrial Communication Protocols, Industrial Internet of Things (IIoT), AWS IoT, OPC-UA, and Node-RED.
 
-During my Diploma in Electronics and Communication Engineering, I successfully completed an Industrial Automation Internship at **Swaraj Automation, Belagavi**.
-
-This internship provided practical exposure to modern industrial automation systems used in manufacturing industries. I learned how automation systems are designed, programmed, monitored, and connected to cloud platforms.
-
-The training focused on PLC programming, Human Machine Interface (HMI), Industrial Communication Protocols, Industrial IoT, and Industrial Control Panels.
+This repository serves as a technical reference for the topics studied, practical implementations, and project work completed during the internship.
 
 ---
 
-# 🎯 Objectives
+## Internship Overview
 
-- Understand Industrial Automation concepts
-- Learn PLC Architecture
-- Study PLC Programming Languages
-- Develop Ladder Logic Programs
-- Learn Siemens TIA Portal
-- Learn Delta PLC Programming
-- Understand HMI Development
-- Learn OPC-UA Communication
-- Learn Node-RED
-- Connect PLC to AWS IoT Cloud
-- Develop Industrial Automation Applications
+| Item | Details |
+|------|---------|
+| Organization | Swaraj Automation |
+| Location | Belagavi, Karnataka, India |
+| Domain | Industrial Automation |
+| Department | Electronics and Communication Engineering |
+| Training Areas | PLC Programming, Siemens TIA Portal, HMI, Industrial Communication, AWS IoT, OPC-UA, Node-RED |
+| Repository Purpose | Documentation of concepts, practical exercises, and automation projects completed during the internship |
 
 ---
 
-# 🛠 Technologies Learned
+## Objectives
 
-- PLC Programming
-- Ladder Logic
-- Siemens TIA Portal
-- Delta ISPSoft
-- Human Machine Interface (HMI)
-- Industrial Automation
-- OPC-UA
-- Node-RED
-- AWS IoT
-- MQTT
-- Industrial Networking
-- Sensors & Actuators
+The primary objectives of this internship were to:
+
+- Understand the fundamentals of Industrial Automation.
+- Study the architecture and operation of Programmable Logic Controllers (PLCs).
+- Learn PLC programming using Ladder Logic.
+- Gain practical experience with Siemens TIA Portal.
+- Understand Human Machine Interface (HMI) development.
+- Explore Industrial Communication using OPC-UA.
+- Study Industrial Internet of Things (IIoT) concepts using AWS IoT.
+- Develop monitoring dashboards using Node-RED.
+- Apply theoretical concepts through practical automation projects.
 
 ---
 
-# 📚 Topics Covered
+## Technologies and Tools
 
-## Industrial Automation
+| Category | Technology |
+|----------|------------|
+| PLC | Siemens PLC |
+| PLC Programming | Ladder Logic |
+| Software | Siemens TIA Portal |
+| Communication | OPC-UA |
+| Cloud Platform | AWS IoT |
+| Dashboard | Node-RED |
+| Industrial Systems | Hydraulic Press Control, Tank Mixing System |
 
-- Industrial Automation Basics
-- Industrial Applications
+---
+
+## Topics Covered
+
+### Industrial Automation
+
+- Introduction to Industrial Automation
 - Industrial Control Systems
+- Automation Architecture
+- Industrial Applications
 
----
-
-## PLC
+### Programmable Logic Controllers (PLC)
 
 - PLC Architecture
 - CPU
-- Input Module
-- Output Module
-- Digital Inputs
-- Analog Inputs
-- Communication Protocols
+- Memory
+- Input Modules
+- Output Modules
 - PLC Scan Cycle
+- Digital Inputs and Outputs
+- Analog Inputs and Outputs
 
----
-
-## PLC Programming
+### PLC Programming
 
 - Ladder Logic
-- Function Block Diagram (FBD)
-- Sequential Function Chart (SFC)
-- Structured Text (ST)
-- Instruction List (IL)
-
----
-
-## PLC Components
-
 - Timers
 - Counters
-- ON Delay Timer
-- OFF Delay Timer
-- Pulse Timer
-- UP Counter
-- DOWN Counter
-- UP/DOWN Counter
+- Internal Relays
+- Contacts
+- Coils
+- Ladder Logic Networks
 
----
+### Siemens TIA Portal
 
-## Logic Gates using PLC
+- Project Configuration
+- PLC Programming
+- Program Download
+- Monitoring and Debugging
 
-- NOT
-- AND
-- OR
-- NAND
-- NOR
-- XOR
-- XNOR
+### Human Machine Interface (HMI)
 
----
-
-## Siemens Automation
-
-- Siemens PLC
-- TIA Portal
-- SIMATIC
-- PLC Configuration
-
----
-
-## Industrial Communication
-
-- OPC-UA
-- MQTT
-- Ethernet
-- RS232
-- RS485
-- MPI
-- Profibus
-
----
-
-## Industrial IoT
-
-- AWS IoT Core
-- Cloud Connectivity
-- MQTT Communication
-- Device Certificates
-- IoT Policies
-
----
-
-## Node-RED
-
-- Dashboard Creation
-- Flow Programming
-- MQTT Integration
-
----
-
-## Human Machine Interface
-
-- Delta HMI
 - Industrial Visualization
 - Machine Monitoring
+- Operator Interface
+
+### Industrial Communication
+
+- OPC-UA
+- Industrial Networking
+
+### Industrial Internet of Things (IIoT)
+
+- AWS IoT Core
+- Device Registration
+- Certificate Configuration
+- MQTT Communication
+
+### Node-RED
+
+- Dashboard Development
+- Industrial Data Monitoring
+- Cloud Integration
 
 ---
 
-# 🚀 Practical Projects
+# Practical Projects
 
-## Project 1
+## 1. Hydraulic Press Control System
 
-### Hydraulic Press Automation
+### Objective
 
-Features
+To understand the PLC-based control of a hydraulic press using ladder logic.
 
-- Manual Mode
-- Automatic Mode
-- PLC Controlled
-- HMI Interface
+### Concepts Applied
+
+- PLC Programming
+- Ladder Logic
+- Digital Inputs
+- Digital Outputs
 - Industrial Safety
 
 ---
 
-## Project 2
+## 2. Automatic Tank Mixing System
 
-### Automatic Tank Mixing System
+### Objective
 
-Features
+To automate a sequential tank mixing process using PLC ladder logic.
+
+### Features
 
 - Automatic Filling
-- Level Detection
-- Mixing Timer
+- Mixing Operation
 - Drain Control
-- Buzzer Notification
+- Process Completion Indication
 
 ---
 
-## Project 3
+## Image Gallery
 
-### PLC + AWS IoT Integration
+### PLC Control Panel
 
-Features
+Industrial PLC control panel used for automation applications.
 
-- PLC Data Collection
-- MQTT Communication
-- AWS IoT Core
-- Device Certificates
-- Cloud Monitoring
+<p align="center">
+<img src="Images/PLC/01_PLC_Panel_Page_15_16.jpeg" width="700">
+</p>
 
 ---
 
-## Project 4
+### PLC Architecture
+
+Illustration of the architecture of a Programmable Logic Controller.
+
+<p align="center">
+<img src="Images/PLC/02_PLC_Architecture_Page_21.jpeg" width="700">
+</p>
+
+---
+
+### Ladder Logic Fundamentals
+
+Basic ladder logic symbols and rung structure.
+
+<p align="center">
+<img src="Images/PLC/03a_Ladder_Logic_Page_24_Basic_Symbols.jpeg" width="48%">
+<img src="Images/PLC/03b_Ladder_Logic_Page_24_Rung.jpeg" width="48%">
+</p>
+
+---
+
+### Siemens TIA Portal
+
+Programming environment used for Siemens PLC development.
+
+<p align="center">
+<img src="Images/Siemens/04_TIA_Portal_Page_35.jpeg" width="700">
+</p>
+
+---
 
 ### OPC-UA Communication
 
-Features
+Industrial communication using OPC-UA.
 
-- PLC Communication
-- Industrial Networking
-- Data Exchange
+<p align="center">
+<img src="Images/Industrial_IoT/05_OPC_UA_Page_36.jpeg" width="700">
+</p>
 
 ---
 
-## Project 5
+### Hydraulic Press Automation
+
+PLC-based hydraulic press control system.
+
+<p align="center">
+<img src="Images/Projects/06_Hydraulic_Press_Page_38.jpeg" width="700">
+</p>
+
+---
+
+### Automatic Tank Mixing System
+
+PLC implementation of an automatic tank mixing process.
+
+<p align="center">
+<img src="Images/Projects/07_Tank_Mixing_Diagram_Page_39.jpeg" width="700">
+</p>
+
+---
+
+### Ladder Logic Networks
+
+Implementation of ladder logic networks for industrial automation.
+
+<p align="center">
+<img src="Images/Projects/08a_Ladder_Logic_Networks_Page_40_42.jpeg" width="48%">
+<img src="Images/Projects/08b_Ladder_Logic_Networks_Page_40_42.jpeg" width="48%">
+</p>
+
+<p align="center">
+<img src="Images/Projects/08c_Ladder_Logic_Networks_Page_40_42.jpeg" width="48%">
+<img src="Images/Projects/08d_Ladder_Logic_Networks_Page_40_42.jpeg" width="48%">
+</p>
+
+<p align="center">
+<img src="Images/Projects/08e_Ladder_Logic_Networks_Page_40_42.jpeg" width="48%">
+<img src="Images/Projects/08f_Ladder_Logic_Networks_Page_40_42.jpeg" width="48%">
+</p>
+
+---
+
+### Siemens Project Implementation
+
+Project development using Siemens TIA Portal.
+
+<p align="center">
+<img src="Images/Siemens/09a_Siemens_Project_Page_43.jpeg" width="32%">
+<img src="Images/Siemens/09b_Siemens_Project_Page_43.jpeg" width="32%">
+<img src="Images/Siemens/09c_Siemens_Project_Page_43_44.png" width="32%">
+</p>
+
+---
+
+### AWS IoT Integration
+
+Configuration of AWS IoT services for industrial monitoring.
+
+<p align="center">
+<img src="Images/Industrial_IoT/10a_AWS_IoT_Page_44_Services_Menu.jpeg" width="32%">
+<img src="Images/Industrial_IoT/10b_AWS_IoT_Page_45_Create_Thing.jpeg" width="32%">
+<img src="Images/Industrial_IoT/10c_AWS_IoT_Page_45_Configure_Certificate.jpeg" width="32%">
+</p>
+
+---
 
 ### Node-RED Dashboard
 
-Features
+Industrial monitoring dashboard developed using Node-RED.
 
-- Real-Time Monitoring
-- Dashboard Visualization
-- MQTT Messaging
-- Industrial Data Display
-
----
-
-# 💡 Skills Gained
-
-- Industrial Automation
-- PLC Programming
-- Ladder Logic Development
-- HMI Design
-- Cloud Integration
-- Industrial Networking
-- Industrial Communication
-- Problem Solving
-- Team Collaboration
-- Technical Documentation
+<p align="center">
+<img src="Images/Industrial_IoT/11_Node_RED_Dashboard_Page_52.jpeg" width="700">
+</p>
 
 ---
 
-# 🏢 Company
+### Web Dashboard
 
-Swaraj Automation
+Industrial monitoring through a web-based dashboard.
 
-Belagavi, Karnataka
-
-Industrial Automation Solutions
-
-Power Control Panels
-
-PLC Panels
-
-HMI Development
-
-Industrial IoT
-
-Automation Services
+<p align="center">
+<img src="Images/Industrial_IoT/12_Web_Dashboard_Page_52.png" width="700">
+</p>
 
 ---
 
-# 🎓 Internship Outcome
+## Key Learning Outcomes
 
-This internship strengthened my understanding of Industrial Automation and provided valuable practical exposure to PLC Programming, Industrial Control Systems, Human Machine Interface (HMI), Industrial IoT, AWS IoT, Node-RED, and Industrial Communication Protocols.
-
-The experience enhanced my technical knowledge, problem-solving ability, teamwork, and understanding of real industrial automation workflows.
-
----
-
-# 📸 Repository Contents
-
-📂 Images
-
-📂 PLC Programs
-
-📂 HMI Screens
-
-📂 Ladder Logic
-
-📂 Node-RED Dashboard
-
-📂 Project Documentation
+- Developed a fundamental understanding of Industrial Automation systems.
+- Learned PLC programming using Ladder Logic.
+- Gained practical experience with Siemens TIA Portal.
+- Understood industrial communication using OPC-UA.
+- Explored Industrial Internet of Things (IIoT) using AWS IoT.
+- Developed industrial dashboards using Node-RED.
+- Applied automation concepts through practical industrial projects.
+- Improved technical documentation and industrial workflow understanding.
 
 ---
 
-# 📖 Future Improvements
+## Repository Structure
 
-- Add more PLC Projects
-- SCADA Projects
-- Modbus Communication
-- Industrial Robotics
-- VFD Programming
-- Factory Automation Projects
-- IIoT Projects
+```
+Industrial-Automation-Internship/
+│
+├── Images/
+│   ├── Industrial_IoT/
+│   ├── PLC/
+│   ├── Projects/
+│   └── Siemens/
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
 
 ---
 
-## 👨‍💻 Author
+## References
+
+- Siemens TIA Portal Documentation
+- AWS IoT Core Documentation
+- OPC Foundation Documentation
+- Node-RED Documentation
+- Industrial Automation Training Material
+
+---
+
+## Author
 
 **Abhay Nagure**
 
-Electronics & Communication Engineering
+Bachelor of Engineering  
+Electronics and Communication Engineering
 
-Industrial Automation Enthusiast
+**Areas of Interest**
 
-Embedded Systems | PLC | IoT | VLSI | Core Electronics
-
----
-⭐ If you found this repository useful, feel free to star it.
+- Industrial Automation
+- Embedded Systems
+- PLC Programming
+- Industrial Internet of Things
+- Control Systems
+- Industrial Communication
