@@ -3,16 +3,12 @@
 > Hands-on Industrial Automation Internship at Swaraj Automation, Belagavi, Karnataka.
 
 ---
+
 ![PLC](https://img.shields.io/badge/PLC-Programming-blue)
-
 ![Siemens](https://img.shields.io/badge/Siemens-TIA%20Portal-green)
-
 ![Automation](https://img.shields.io/badge/Industrial-Automation-orange)
-
 ![AWS](https://img.shields.io/badge/AWS-IoT-yellow)
-
 ![NodeRED](https://img.shields.io/badge/Node--RED-Dashboard-red)
-
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
 ## 📌 About
